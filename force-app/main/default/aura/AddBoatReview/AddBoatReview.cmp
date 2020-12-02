@@ -14,7 +14,7 @@
 
     </force:recordData>
 
-    <!-- arrange the form fields vertically (form stacked) -->
+    <!--- arrange the form fields vertically (form stacked) -->
     <lightning:layout>
 
         <lightning:layoutItem padding="around-small" size="12">
