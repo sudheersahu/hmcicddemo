@@ -2,7 +2,7 @@
 public with sharing class BoatController {
 
     public BoatController() {
-
+      System.debug('in controller');
     }
 
     @AuraEnabled
